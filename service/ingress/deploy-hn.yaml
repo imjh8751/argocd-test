@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: deploy-hn1
+        app: deploy-hn
     spec:
       containers:
       - name: chk-hn
