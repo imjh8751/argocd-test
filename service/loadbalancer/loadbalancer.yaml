@@ -5,7 +5,7 @@ metadata:
   labels:
     app: deploy-chk-ip
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: deploy-chk-ip
